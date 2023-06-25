@@ -1,0 +1,37 @@
+<html>
+<head>
+  <title>My Landing Page</title>
+  <link rel="stylesheet" type="text/css" href="task1.css">
+</head>
+<body>
+  <header>
+    <h1>Welcome to CMR Shopping Mall</h1>
+    <nav>
+      <ul>
+        <li><a href="#about">About</a></li>
+        <li><a href="#features">Features</a></li>
+        <li><a href="#contact">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <section id="about">
+    <h2>About Us</h2>
+    <p>Established in the year 1971 the brand Chandana Brothers was founded by Mr. Chandana Mohan Rao; and Director Mr. Mavuri Venkata Ramana has introduced the Brand CMR Shopping Mall. They changed the Shopping pattern in Andhra Pradesh by starting CMR Shopping Mall.</p>
+  </section>
+
+  <section id="features">
+    <h2>Features</h2>
+    <ul>
+      <li>It is an enclosed shopping space.</li>
+      <li>It is large multi-storeyed air-conditioned building.</li>
+      <li>It has shops on different floors.</li>
+      <li>It also consists of restaurants and even a cinema theatre.</li>
+      <li>It sells both branded and non-branded goods.</li>
+    </ul>
+  </section>
+
+  <footer>
+    <p>&copy; CMR Shopping Mall. All rights reserved.</p>
+  </footer>
+</body>
